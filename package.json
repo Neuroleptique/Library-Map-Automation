@@ -1,0 +1,16 @@
+{
+  "name": "library-map-automation",
+  "description": "",
+  "version": "1.0.0",
+  "main": "library.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.28.1"
+  }
+}
